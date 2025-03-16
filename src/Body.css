@@ -1,0 +1,21 @@
+.body-container {
+  display: flex;
+  justify-content: left;
+  align-items: flex-start;
+  background-color: white;
+  min-height: 100vh;
+  padding: 40px 0;
+  position: relative;
+  border-left: 60px solid transparent;
+}
+
+.content {
+  width: 60%;
+  background-color: transparent;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+.imagem-princ {
+  margin-left: 45px;
+}
